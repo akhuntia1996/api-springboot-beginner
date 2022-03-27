@@ -1,0 +1,20 @@
+2022-03-27 20:12:55,731 INFO com.example.demo.DemoApplicationTests [main] Starting DemoApplicationTests using Java 11.0.13 on DESKTOP-D92HV3J with PID 1852 (started by user in D:\sradha-code\demo)
+2022-03-27 20:12:55,731 INFO com.example.demo.DemoApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-27 20:12:57,704 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-03-27 20:12:58,317 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2022-03-27 20:12:58,334 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2022-03-27 20:12:58,361 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2022-03-27 20:12:58,522 INFO com.example.demo.DemoApplicationTests [main] Started DemoApplicationTests in 3.165 seconds (JVM running for 4.132)
+2022-03-27 20:13:05,502 INFO com.example.demo.DemoApplication [main] Starting DemoApplication using Java 11.0.13 on DESKTOP-D92HV3J with PID 7840 (D:\sradha-code\demo\target\classes started by user in D:\sradha-code\demo)
+2022-03-27 20:13:05,518 INFO com.example.demo.DemoApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-27 20:13:06,389 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-03-27 20:13:06,389 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-27 20:13:06,436 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2022-03-27 20:13:06,652 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-03-27 20:13:06,787 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2022-03-27 20:13:06,790 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2022-03-27 20:13:06,805 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2022-03-27 20:13:06,905 INFO com.example.demo.DemoApplication [main] Started DemoApplication in 2.044 seconds (JVM running for 2.584)
+2022-03-27 20:13:18,608 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-27 20:13:18,626 INFO com.example.demo.contoller.MyContoller [http-nio-8080-exec-1] hello
+2022-03-27 20:13:18,628 ERROR com.example.demo.contoller.MyContoller [http-nio-8080-exec-1] error
